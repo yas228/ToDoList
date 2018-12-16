@@ -37,6 +37,7 @@
 
 	}
 	input {
+		display: none;
 		height: 40px;
 		width: 100%;
 		background: #f7f7f7;
